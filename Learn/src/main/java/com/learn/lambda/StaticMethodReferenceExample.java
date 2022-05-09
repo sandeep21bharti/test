@@ -23,6 +23,8 @@ public class StaticMethodReferenceExample {
         integerList.add(new Double(9));
         
         integerList.forEach(ClassA::raiseToThePowerOfTwo);
+        
+        
 	}
 
 }
